@@ -1,2 +1,1 @@
-Скрипт додає записи до excele таблиці 
-на диску Google Drive
+The script adds records to an excel table on Google Drive
